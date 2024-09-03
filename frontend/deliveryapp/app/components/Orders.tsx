@@ -14,7 +14,7 @@ export const Orders = ({orders, href}: Props) => {
             {orders.map((order:Order) => (
                 <Card 
                     key={order.id}    
-                    title = {<CardTitle id={order.id}  data={order.weight.toString()}></CardTitle>}
+                    title = {<CardTitle id={order.id}  data={order}></CardTitle>}
                     bordered={false}>
                 
                     <div>     

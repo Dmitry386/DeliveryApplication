@@ -1,13 +1,15 @@
+import { Order } from "../models/Order";
+
 interface Props {
     id: number;
-    data: string;
+    data: Order;
 }
 
 export const CardTitle =({id, data}: Props) => {
     return (
         <div>
-            <p>Id: {id}</p>
-            <p>Data: {data}</p>
+            <p>Заказ № {id}</p>
+            <p>{data.senderAddress?.city} → {data.receiverAddress?.city} | {data.dateOfPickup.toString()}</p>
         </div>
     );
 }

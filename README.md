@@ -1,5 +1,5 @@
-# Задача:
-Реализовать простое Web приложение для приемки заказа на доставку со следующим функционалом:
+# Проект:
+Web приложение для приемки заказа на доставку со следующим функционалом:
 
 1. Форма создания нового заказа (все поля обязательны для заполнения):
 - Город отправителя
@@ -35,3 +35,13 @@ dotnet ef database update -s .\DeliveryApp.API\ -p .\DeliveryApp.DataAccess\
 cd .\deliveryapp\
 npm run dev
 ```
+
+# Браузер
+```
+https://localhost:7051/swagger/index.html
+http://localhost:3000/
+```
+
+# Демонстрация
+https://youtu.be/ItJAcsqAe2c
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ItJAcsqAe2c/0.jpg)](https://www.youtube.com/watch?v=ItJAcsqAe2c)
