@@ -1,0 +1,14 @@
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Core\bin\Debug\net8.0\DeliveryApp.Core.deps.json
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Core\bin\Debug\net8.0\DeliveryApp.Core.runtimeconfig.json
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Core\bin\Debug\net8.0\DeliveryApp.Core.dll
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Core\bin\Debug\net8.0\DeliveryApp.Core.pdb
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Core\obj\Debug\net8.0\DeliveryApp.Core.csproj.AssemblyReference.cache
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Core\obj\Debug\net8.0\DeliveryApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Core\obj\Debug\net8.0\DeliveryApp.Core.AssemblyInfoInputs.cache
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Core\obj\Debug\net8.0\DeliveryApp.Core.AssemblyInfo.cs
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Core\obj\Debug\net8.0\DeliveryApp.Core.csproj.CoreCompileInputs.cache
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Core\obj\Debug\net8.0\DeliveryApp.Core.dll
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Core\obj\Debug\net8.0\refint\DeliveryApp.Core.dll
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Core\obj\Debug\net8.0\DeliveryApp.Core.pdb
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Core\obj\Debug\net8.0\DeliveryApp.Core.genruntimeconfig.cache
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Core\obj\Debug\net8.0\ref\DeliveryApp.Core.dll

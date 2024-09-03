@@ -1,0 +1,17 @@
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.DataAccess\bin\Debug\net8.0\DeliveryApp.DataAccess.deps.json
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.DataAccess\bin\Debug\net8.0\DeliveryApp.DataAccess.runtimeconfig.json
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.DataAccess\bin\Debug\net8.0\DeliveryApp.DataAccess.dll
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.DataAccess\bin\Debug\net8.0\DeliveryApp.DataAccess.pdb
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.DataAccess\bin\Debug\net8.0\DeliveryApp.Core.dll
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.DataAccess\bin\Debug\net8.0\DeliveryApp.Core.pdb
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.DataAccess\obj\Debug\net8.0\DeliveryApp.DataAccess.csproj.AssemblyReference.cache
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.DataAccess\obj\Debug\net8.0\DeliveryApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.DataAccess\obj\Debug\net8.0\DeliveryApp.DataAccess.AssemblyInfoInputs.cache
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.DataAccess\obj\Debug\net8.0\DeliveryApp.DataAccess.AssemblyInfo.cs
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.DataAccess\obj\Debug\net8.0\DeliveryApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.DataAccess\obj\Debug\net8.0\Delivery.59539803.Up2Date
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.DataAccess\obj\Debug\net8.0\DeliveryApp.DataAccess.dll
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.DataAccess\obj\Debug\net8.0\refint\DeliveryApp.DataAccess.dll
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.DataAccess\obj\Debug\net8.0\DeliveryApp.DataAccess.pdb
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.DataAccess\obj\Debug\net8.0\DeliveryApp.DataAccess.genruntimeconfig.cache
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.DataAccess\obj\Debug\net8.0\ref\DeliveryApp.DataAccess.dll

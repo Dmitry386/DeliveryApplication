@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7xFd4TpGO4xwojffjN/TJu7nPSsNxdK/w8PFdnh70xA=",
+  "Source": "DeliveryApp.API",
+  "BasePath": "_content/DeliveryApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

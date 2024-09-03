@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEDA994-C3ED-4E8D-A060-1A71475AC678}|DeliveryApp.API\\DeliveryApp.API.csproj|c:\\uprojects\\deliveryapplication\\backend\\deliveryapp.api\\deliveryapp.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEDA994-C3ED-4E8D-A060-1A71475AC678}|DeliveryApp.API\\DeliveryApp.API.csproj|solutionrelative:deliveryapp.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C3D1E7-B8A3-4EF7-949A-FFA39860AE9C}|DeliveryApp.Application\\DeliveryApp.Application.csproj|c:\\uprojects\\deliveryapplication\\backend\\deliveryapp.api\\deliveryapp.application\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0C3D1E7-B8A3-4EF7-949A-FFA39860AE9C}|DeliveryApp.Application\\DeliveryApp.Application.csproj|solutionrelative:deliveryapp.application\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEDA994-C3ED-4E8D-A060-1A71475AC678}|DeliveryApp.API\\DeliveryApp.API.csproj|c:\\uprojects\\deliveryapplication\\backend\\deliveryapp.api\\deliveryapp.api\\contracts\\ordersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEDA994-C3ED-4E8D-A060-1A71475AC678}|DeliveryApp.API\\DeliveryApp.API.csproj|solutionrelative:deliveryapp.api\\contracts\\ordersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBA0BA3-6375-405E-BDA1-681AD4A0A3A2}|DeliveryApp.Core\\DeliveryApp.Core.csproj|c:\\uprojects\\deliveryapplication\\backend\\deliveryapp.api\\deliveryapp.core\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBA0BA3-6375-405E-BDA1-681AD4A0A3A2}|DeliveryApp.Core\\DeliveryApp.Core.csproj|solutionrelative:deliveryapp.core\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBA0BA3-6375-405E-BDA1-681AD4A0A3A2}|DeliveryApp.Core\\DeliveryApp.Core.csproj|c:\\uprojects\\deliveryapplication\\backend\\deliveryapp.api\\deliveryapp.core\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBA0BA3-6375-405E-BDA1-681AD4A0A3A2}|DeliveryApp.Core\\DeliveryApp.Core.csproj|solutionrelative:deliveryapp.core\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEDA994-C3ED-4E8D-A060-1A71475AC678}|DeliveryApp.API\\DeliveryApp.API.csproj|c:\\uprojects\\deliveryapplication\\backend\\deliveryapp.api\\deliveryapp.api\\helpers\\ordermappinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEDA994-C3ED-4E8D-A060-1A71475AC678}|DeliveryApp.API\\DeliveryApp.API.csproj|solutionrelative:deliveryapp.api\\helpers\\ordermappinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23D8042-4B49-4CA9-9BAD-F4001C45777E}|DeliveryApp.DataAccess\\DeliveryApp.DataAccess.csproj|c:\\uprojects\\deliveryapplication\\backend\\deliveryapp.api\\deliveryapp.dataaccess\\contexts\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23D8042-4B49-4CA9-9BAD-F4001C45777E}|DeliveryApp.DataAccess\\DeliveryApp.DataAccess.csproj|solutionrelative:deliveryapp.dataaccess\\contexts\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEDA994-C3ED-4E8D-A060-1A71475AC678}|DeliveryApp.API\\DeliveryApp.API.csproj|c:\\uprojects\\deliveryapplication\\backend\\deliveryapp.api\\deliveryapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EEDA994-C3ED-4E8D-A060-1A71475AC678}|DeliveryApp.API\\DeliveryApp.API.csproj|solutionrelative:deliveryapp.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEDA994-C3ED-4E8D-A060-1A71475AC678}|DeliveryApp.API\\DeliveryApp.API.csproj|c:\\uprojects\\deliveryapplication\\backend\\deliveryapp.api\\deliveryapp.api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2EEDA994-C3ED-4E8D-A060-1A71475AC678}|DeliveryApp.API\\DeliveryApp.API.csproj|solutionrelative:deliveryapp.api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEDA994-C3ED-4E8D-A060-1A71475AC678}|DeliveryApp.API\\DeliveryApp.API.csproj|c:\\uprojects\\deliveryapplication\\backend\\deliveryapp.api\\deliveryapp.api\\deliveryapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2EEDA994-C3ED-4E8D-A060-1A71475AC678}|DeliveryApp.API\\DeliveryApp.API.csproj|solutionrelative:deliveryapp.api\\deliveryapp.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEDA994-C3ED-4E8D-A060-1A71475AC678}|DeliveryApp.API\\DeliveryApp.API.csproj|c:\\uprojects\\deliveryapplication\\backend\\deliveryapp.api\\deliveryapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEDA994-C3ED-4E8D-A060-1A71475AC678}|DeliveryApp.API\\DeliveryApp.API.csproj|solutionrelative:deliveryapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DBA0BA3-6375-405E-BDA1-681AD4A0A3A2}|DeliveryApp.Core\\DeliveryApp.Core.csproj|c:\\uprojects\\deliveryapplication\\backend\\deliveryapp.api\\deliveryapp.core\\abstractions\\iordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DBA0BA3-6375-405E-BDA1-681AD4A0A3A2}|DeliveryApp.Core\\DeliveryApp.Core.csproj|solutionrelative:deliveryapp.core\\abstractions\\iordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23D8042-4B49-4CA9-9BAD-F4001C45777E}|DeliveryApp.DataAccess\\DeliveryApp.DataAccess.csproj|c:\\uprojects\\deliveryapplication\\backend\\deliveryapp.api\\deliveryapp.dataaccess\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23D8042-4B49-4CA9-9BAD-F4001C45777E}|DeliveryApp.DataAccess\\DeliveryApp.DataAccess.csproj|solutionrelative:deliveryapp.dataaccess\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEDA994-C3ED-4E8D-A060-1A71475AC678}|DeliveryApp.API\\DeliveryApp.API.csproj|c:\\uprojects\\deliveryapplication\\backend\\deliveryapp.api\\deliveryapp.api\\contracts\\ordersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEDA994-C3ED-4E8D-A060-1A71475AC678}|DeliveryApp.API\\DeliveryApp.API.csproj|solutionrelative:deliveryapp.api\\contracts\\ordersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "DeliveryApp.API\\Program.cs",
+              "ToolTip": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.API\\Program.cs",
+              "RelativeToolTip": "DeliveryApp.API\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:50:37.221Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.DataAccess\\Configurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "DeliveryApp.DataAccess\\Configurations\\OrderConfiguration.cs",
+              "ToolTip": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.DataAccess\\Configurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "DeliveryApp.DataAccess\\Configurations\\OrderConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:22:53.596Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DeliveryApp.API\\appsettings.Development.json",
+              "ToolTip": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.API\\appsettings.Development.json",
+              "RelativeToolTip": "DeliveryApp.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T12:15:42.326Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IOrdersService.cs",
+              "DocumentMoniker": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.Core\\Abstractions\\IOrdersService.cs",
+              "RelativeDocumentMoniker": "DeliveryApp.Core\\Abstractions\\IOrdersService.cs",
+              "ToolTip": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.Core\\Abstractions\\IOrdersService.cs",
+              "RelativeToolTip": "DeliveryApp.Core\\Abstractions\\IOrdersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:09:34.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeliveryApp.API.http",
+              "DocumentMoniker": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.API\\DeliveryApp.API.http",
+              "RelativeDocumentMoniker": "DeliveryApp.API\\DeliveryApp.API.http",
+              "ToolTip": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.API\\DeliveryApp.API.http",
+              "RelativeToolTip": "DeliveryApp.API\\DeliveryApp.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-02T12:35:53.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.API\\docker-compose.yml",
+              "RelativeDocumentMoniker": "DeliveryApp.API\\docker-compose.yml",
+              "ToolTip": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.API\\docker-compose.yml",
+              "RelativeToolTip": "DeliveryApp.API\\docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-02T12:32:53.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDbContext.cs",
+              "DocumentMoniker": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.DataAccess\\Contexts\\OrderDbContext.cs",
+              "RelativeDocumentMoniker": "DeliveryApp.DataAccess\\Contexts\\OrderDbContext.cs",
+              "ToolTip": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.DataAccess\\Contexts\\OrderDbContext.cs",
+              "RelativeToolTip": "DeliveryApp.DataAccess\\Contexts\\OrderDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:08:37.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderMappingHelper.cs",
+              "DocumentMoniker": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.API\\Helpers\\OrderMappingHelper.cs",
+              "RelativeDocumentMoniker": "DeliveryApp.API\\Helpers\\OrderMappingHelper.cs",
+              "ToolTip": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.API\\Helpers\\OrderMappingHelper.cs",
+              "RelativeToolTip": "DeliveryApp.API\\Helpers\\OrderMappingHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:04:53.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.Core\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "DeliveryApp.Core\\Models\\Address.cs",
+              "ToolTip": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.Core\\Models\\Address.cs",
+              "RelativeToolTip": "DeliveryApp.Core\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:47:59.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.Core\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DeliveryApp.Core\\Models\\Order.cs",
+              "ToolTip": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.Core\\Models\\Order.cs",
+              "RelativeToolTip": "DeliveryApp.Core\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:16:37.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersResponse.cs",
+              "DocumentMoniker": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.API\\Contracts\\OrdersResponse.cs",
+              "RelativeDocumentMoniker": "DeliveryApp.API\\Contracts\\OrdersResponse.cs",
+              "ToolTip": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.API\\Contracts\\OrdersResponse.cs",
+              "RelativeToolTip": "DeliveryApp.API\\Contracts\\OrdersResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:43:22.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersService.cs",
+              "DocumentMoniker": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.Application\\Services\\OrdersService.cs",
+              "RelativeDocumentMoniker": "DeliveryApp.Application\\Services\\OrdersService.cs",
+              "ToolTip": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.Application\\Services\\OrdersService.cs",
+              "RelativeToolTip": "DeliveryApp.Application\\Services\\OrdersService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:31:22.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "DeliveryApp.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "DeliveryApp.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:14:54.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrdersRequest.cs",
+              "DocumentMoniker": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.API\\Contracts\\OrdersRequest.cs",
+              "RelativeDocumentMoniker": "DeliveryApp.API\\Contracts\\OrdersRequest.cs",
+              "ToolTip": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.API\\Contracts\\OrdersRequest.cs",
+              "RelativeToolTip": "DeliveryApp.API\\Contracts\\OrdersRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:14:12.855Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

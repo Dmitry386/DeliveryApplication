@@ -1,0 +1,17 @@
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Application\bin\Debug\net8.0\DeliveryApp.Application.deps.json
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Application\bin\Debug\net8.0\DeliveryApp.Application.runtimeconfig.json
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Application\bin\Debug\net8.0\DeliveryApp.Application.dll
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Application\bin\Debug\net8.0\DeliveryApp.Application.pdb
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Application\bin\Debug\net8.0\DeliveryApp.Core.dll
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Application\bin\Debug\net8.0\DeliveryApp.Core.pdb
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Application\obj\Debug\net8.0\DeliveryApp.Application.csproj.AssemblyReference.cache
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Application\obj\Debug\net8.0\DeliveryApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Application\obj\Debug\net8.0\DeliveryApp.Application.AssemblyInfoInputs.cache
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Application\obj\Debug\net8.0\DeliveryApp.Application.AssemblyInfo.cs
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Application\obj\Debug\net8.0\DeliveryApp.Application.csproj.CoreCompileInputs.cache
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Application\obj\Debug\net8.0\Delivery.A1EF81DE.Up2Date
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Application\obj\Debug\net8.0\DeliveryApp.Application.dll
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Application\obj\Debug\net8.0\refint\DeliveryApp.Application.dll
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Application\obj\Debug\net8.0\DeliveryApp.Application.pdb
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Application\obj\Debug\net8.0\DeliveryApp.Application.genruntimeconfig.cache
+C:\UProjects\DeliveryApplication\backend\DeliveryApp.API\DeliveryApp.Application\obj\Debug\net8.0\ref\DeliveryApp.Application.dll
