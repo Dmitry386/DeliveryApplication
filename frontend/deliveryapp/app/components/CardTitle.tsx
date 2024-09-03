@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { Order } from "../models/Order";
 
 interface Props {
@@ -7,9 +8,15 @@ interface Props {
 
 export const CardTitle =({id, data}: Props) => {
     return (
-        <div>
+        <Link
+            href={{
+                pathname: "/order",
+                query: `id=${data.id}`
+            }}   
+        >
+
             <p>Заказ № {id}</p>
             <p>{data.senderAddress?.city} → {data.receiverAddress?.city} | {data.dateOfPickup.toString()}</p>
-        </div>
+        </Link>
     );
 }

@@ -25,7 +25,7 @@ export default function OrdersPage() {
             <br/>
             <center><h1>Список заказов</h1></center>
             <br/>
-             {loading ? <Title>Loading...</Title> : <Orders orders={orders} href="/order"></Orders>}
+             {loading ? <Title>Loading...</Title> : <Orders orders={orders}></Orders>}
         </div>
     );
 }
