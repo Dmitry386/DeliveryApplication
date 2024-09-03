@@ -79,8 +79,7 @@
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T11:50:37.221Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -106,8 +105,7 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-02T12:15:42.326Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -119,8 +117,7 @@
               "RelativeToolTip": "DeliveryApp.Core\\Abstractions\\IOrdersService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T07:09:34.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-03T07:09:34.428Z"
             },
             {
               "$type": "Document",
@@ -132,8 +129,7 @@
               "RelativeToolTip": "DeliveryApp.API\\DeliveryApp.API.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-09-02T12:35:53.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T12:35:53.351Z"
             },
             {
               "$type": "Document",
@@ -145,8 +141,7 @@
               "RelativeToolTip": "DeliveryApp.API\\docker-compose.yml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-09-02T12:32:53.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T12:32:53.901Z"
             },
             {
               "$type": "Document",
@@ -158,8 +153,7 @@
               "RelativeToolTip": "DeliveryApp.DataAccess\\Contexts\\OrderDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:08:37.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T12:08:37.115Z"
             },
             {
               "$type": "Document",
@@ -171,8 +165,7 @@
               "RelativeToolTip": "DeliveryApp.API\\Helpers\\OrderMappingHelper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:04:53.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T12:04:53.298Z"
             },
             {
               "$type": "Document",
@@ -184,8 +177,7 @@
               "RelativeToolTip": "DeliveryApp.Core\\Models\\Address.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T11:47:59.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T11:47:59.052Z"
             },
             {
               "$type": "Document",
@@ -197,8 +189,7 @@
               "RelativeToolTip": "DeliveryApp.Core\\Models\\Order.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T11:16:37.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T11:16:37.933Z"
             },
             {
               "$type": "Document",
@@ -210,8 +201,7 @@
               "RelativeToolTip": "DeliveryApp.API\\Contracts\\OrdersResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T12:43:22.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T12:43:22.638Z"
             },
             {
               "$type": "Document",
@@ -223,8 +213,7 @@
               "RelativeToolTip": "DeliveryApp.Application\\Services\\OrdersService.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T11:31:22.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T11:31:22.037Z"
             },
             {
               "$type": "Document",
@@ -234,7 +223,7 @@
               "RelativeDocumentMoniker": "DeliveryApp.API\\Controllers\\OrdersController.cs",
               "ToolTip": "C:\\UProjects\\DeliveryApplication\\backend\\DeliveryApp.API\\DeliveryApp.API\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "DeliveryApp.API\\Controllers\\OrdersController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAJAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACoAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T11:14:54.51Z",
               "EditorCaption": ""
